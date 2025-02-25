@@ -23,9 +23,10 @@ KEY OBJECTIVES:
 - Visualization and Reporting : Created charts in excel  and built interactive dashboards in Power BI for data-driven insights.
 - Operational Insights and Recommendations: Identified inefficiences in hospital operations and proposed data-driven solutions to improve patient care and resourse management.
 
-
-
 ![Screenshot (42)](https://github.com/user-attachments/assets/46cc01fa-a0cb-4389-b201-49f68cba05eb)
+
+
+![Screenshot (45)](https://github.com/user-attachments/assets/53bc440d-db61-49fb-994a-9c624d8b4339)
 
 ### DATA SOURCES
 
