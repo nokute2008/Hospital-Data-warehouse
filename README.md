@@ -23,6 +23,10 @@ KEY OBJECTIVES:
 - Visualization and Reporting : Created charts in excel  and built interactive dashboards in Power BI for data-driven insights.
 - Operational Insights and Recommendations: Identified inefficiences in hospital operations and proposed data-driven solutions to improve patient care and resourse management.
 
+
+
+![Screenshot (42)](https://github.com/user-attachments/assets/46cc01fa-a0cb-4389-b201-49f68cba05eb)
+
 ### DATA SOURCES
 
 The primary dataset used for this project is the “Data.zip” file, with six hospital csv files containing patient data.
@@ -50,6 +54,9 @@ EDA involves exploring the hospital data to answer key questions such as:
 4.	Which departments had the highest readmission rates?
 5.	Which gender had the most encounters over the years?
 6.	Is there a shortage of staff in critical departments?
+
+![Screenshot (44)](https://github.com/user-attachments/assets/8f444899-4c6e-4375-a36d-b5ccb5c65bf5)
+
 
 ### DATA ANALYSIS
 ![Screenshot (38)](https://github.com/user-attachments/assets/22e98d24-bbab-4b44-aca7-a081bdd30740)
