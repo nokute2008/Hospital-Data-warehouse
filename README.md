@@ -66,7 +66,7 @@ EDA involves exploring the hospital data to answer key questions such as:
 ### FINDINGS
 
 The analysis results are summarized as follows:
--	Patient admissions or the encounter trend increased over the years.
+-	Patient admissions or the encounter trend increased over the years upto 2019, thereafter there is a deep.
 -	Unpaid medical bills are highest among the Ethnics groups, affecting financial sustainability.
 -	The most patients served at MGH are whites.
 -	Specialties such as surgery, cardiology, and orthopedics often see a higher preference for female healthcare providers.
